@@ -180,4 +180,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Support My Channel
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/AirdropHarvest)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/Airdropscriptfa)
